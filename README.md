@@ -1,7 +1,7 @@
 Hi there👋🏽 welcome to my Github! <br>
 🔭 I’m currently working on projects to strengthen my front-end skills. <br>
 🎯 Dedicated to creating digital experiences that are as much fun to use as they are to create. <br>
-🖱 Tech stack: Angular | JavaScript | Typescript | HTML | CSS | Rest-Api | Firebase | Git | Material Design | Bootstrap
+🖱 Tech stack: Angular | JavaScript | Typescript | SCSS | HTML5 | CSS3 | Rest-Api | Firebase | Git | Material Design | Bootstrap
 
 <sub>my motto:</sub>
 > just do! 🦉
