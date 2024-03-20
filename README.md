@@ -1,10 +1,12 @@
-Hi there👋🏽 welcome to my Github! <br>
-🔭 I’m currently working on various projects to strengthen my front-end skills. Checkout my portfolio: https://www.selinakarlin.de/  <br>
+Hi there 👋🏽 welcome to my Github! <br>
+🔭 I’m currently looking for a position as a junior front-end developer. Checkout my portfolio: https://www.selinakarlin.de/  <br>
 🎯 Dedicated to creating digital experiences that are as much fun to use as they are to create. <br>
 🖱 Tech stack: Angular | JavaScript | Typescript | SCSS | HTML5 | CSS3 | Rest-Api | Firebase | Git | Material Design | Bootstrap
 
 <sub>my motto:</sub>
 > just do! 🦉
+> and on other days...
+> trust the process! 🚀
 
 
 
